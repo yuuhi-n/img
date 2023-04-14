@@ -1,0 +1,36 @@
+body {
+    background: rgb(50, 50, 50);
+}
+.inner {
+    width: 800px;
+    margin: auto;
+}
+header {
+    background: rgb(30, 30, 30);
+    color: white;
+    height: 60px;
+    display: flex;
+    top: 0;
+}
+.header_logo {
+    float: left;
+    margin: 6px 30px;
+}
+h1 {
+    line-height: 60px;
+    font-size: 2rem;
+    float: let;
+}
+.main .inner {
+    background: rgb(30, 30, 30);
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    border-radius: 20px;
+    color: white;
+    padding: 100px 0 0;
+}
+.main img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
